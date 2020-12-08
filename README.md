@@ -13,7 +13,7 @@ Which Red choose as a starter? What will be Red's Team in the Indigo League?
 
 Find out now!
 
-There is a known bug:
+There is a known issues:
 - Professor Oak's speech when selecting a Pokémon doesn’t match due to different starters.
 
 Not compatible with (other hacks):
