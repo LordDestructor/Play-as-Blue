@@ -3,7 +3,7 @@ Seems like Pokémon Blue Version is missing something?
 
 Well, this patch makes you feel more like Blue, the most powerful trainer in the world.
 
-You will become like him instead of Red's Character Sprite.
+You will become like him instead of using Red's Character.
 
 OPTIMIZED FOR EMULATORS: You can get all 151 Pokémon without trading.
 
