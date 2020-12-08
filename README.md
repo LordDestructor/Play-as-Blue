@@ -20,4 +20,4 @@ Not compatible with (other hacks):
 - Pokémon Polished Blue
 - Pokered Spaceworld Backsprites 
 
-Contribute it if you want.
+Feel free to contribute it.
