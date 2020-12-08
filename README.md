@@ -1,4 +1,4 @@
-# Play as Blue! - Still in development
+# Play as Blue! - WIP
 Seems like Pokémon Blue Version is missing something?
 
 Well, this patch makes you feel more like Blue, the most powerful trainer in the world.
