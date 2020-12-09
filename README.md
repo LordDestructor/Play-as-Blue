@@ -5,7 +5,7 @@ Well, this patch makes you feel more like Blue, the most powerful trainer in the
 
 You will become like him instead of using Red's Character.
 
-OPTIMIZED FOR EMULATORS: You can get all 151 Pokémon without trading.
+OPTIMIZED FOR EMULATORS: You can get all 151 kinds of Pokémon without trading.
 
 Starters in Blue are: Eevee, Charmander and Squirtle.
 
