@@ -28,5 +28,5 @@ Not compatible with (other hacks):
 Feel free to contribute it.
 
 Credits:
-- Pokemon: Blue Version (EMU Edition) - Eurynomos
-- Pokémon Playable Blue - alt
+- Eurynomos, maker of "Pokemon: Blue Version (EMU Edition)"
+- alt, maker of "Pokémon Playable Blue"
