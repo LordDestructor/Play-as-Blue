@@ -22,7 +22,7 @@ There is a known issues:
 
 Not compatible with (other hacks):
 - Pokémon Polished Blue
-- Pokered Spaceworld Backsprites 
+- Pokeblue Spaceworld Backsprites 
 - Pokémon Blue Graphics V2.0
 
 Feel free to contribute it.
