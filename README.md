@@ -14,8 +14,10 @@ Which Red choose as a starter? What will be Red's Team in the Indigo League?
 Find out now!
 
 FEATURES TO BE ADDED IN THE FUTURE:
-- Red's Battle Theme
-- "Pokémon Owned" Pokéball Tile
+- Red's Battle Theme.
+- "Pokémon Owned" Pokéball Tile.
+- Support "Pokeblue Spaceworld Backsprites" hack.
+- Change some Gym Leader's Team.
 
 There is a known issues:
 - When selecting a Pokémon, Professor Oak's speech doesn’t match due to different starters.
@@ -30,3 +32,5 @@ Feel free to contribute it.
 Credits:
 - Eurynomos, maker of "Pokemon: Blue Version (EMU Edition)"
 - alt, maker of "Pokémon Playable Blue"
+
+Tools used:
