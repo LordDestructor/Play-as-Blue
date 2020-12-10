@@ -30,7 +30,11 @@ Not compatible with (other hacks):
 Feel free to contribute it.
 
 Credits:
-- Eurynomos, maker of "Pokemon: Blue Version (EMU Edition)"
-- alt, maker of "Pokémon Playable Blue"
+- Eurynomos - Pokemon: Blue Version (EMU Edition)
+- alt - Pokémon Playable Blue
 
 Tools used:
+- GymEdit GB - Swampert Tools
+- Challenge! Starter and Rival Editor - Swampert Tools
+- PokéText - ???
+-
