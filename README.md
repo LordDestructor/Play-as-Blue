@@ -15,9 +15,6 @@ Find out now!
 
 FEATURES TO BE ADDED IN THE FUTURE:
 - Red's Battle Theme.
-- "Pokémon Owned" Pokéball Tile.
-- Support "Pokeblue Spaceworld Backsprites" hack.
-- Change some Gym Leader's Team.
 
 There is a known issues:
 - When selecting a Pokémon, Professor Oak's speech doesn’t match due to different starters.
