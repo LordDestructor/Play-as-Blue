@@ -23,7 +23,6 @@ There is a known issues:
 - When selecting a Pokémon, Professor Oak's speech doesn’t match due to different starters.
 
 Not compatible with (other hacks):
-- Pokémon Polished Blue
 - Pokeblue Spaceworld Backsprites 
 - Pokémon Blue Graphics V2.0
 
