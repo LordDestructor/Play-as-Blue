@@ -28,6 +28,7 @@ Feel free to contribute it.
 Credits:
 - Eurynomos - Pokemon: Blue Version (EMU Edition)
 - alt - Pokémon Playable Blue
+- Gen 6 Typing
 
 Tools used:
 - GymEdit GB - Swampert Tools
