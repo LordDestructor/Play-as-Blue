@@ -22,16 +22,17 @@ There is a known issues:
 Not compatible with (other hacks):
 - Pokeblue Spaceworld Backsprites 
 - Pokémon Blue Graphics V2.0
+- Pokémon Blue Star
+- Pokémon Polished Blue
 
 Feel free to contribute it.
 
 Credits:
 - Eurynomos - Pokemon: Blue Version (EMU Edition)
 - alt - Pokémon Playable Blue
-- Gen 6 Typing
+- Gen 6 Typing - dewhi100
 
 Tools used:
 - GymEdit GB - Swampert Tools
 - Challenge! Starter and Rival Editor - Swampert Tools
 - PokéText - ???
--
