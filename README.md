@@ -1,23 +1,23 @@
 # Play as Blue! - WIP
 Seems like Pokémon Blue Version is missing something?
 
-Well, this patch makes you feel more like Blue, the most powerful trainer in the world.
+Well, this patch makes you feel more like BLUE, the most powerful trainer in the world.
 
-You will become like him instead of using Red's Character.
+You will become like him instead of using RED's Character.
 
 OPTIMIZED FOR EMULATORS: You can get all 151 kinds of Pokémon without trading.
 
-Starters in Blue are:Charmander, Squirtle and Eevee.
+Starters in Blue are: Charmander, Squirtle and Eevee.
 
-Which Red choose as a starter? What will be Red's Team in the Indigo League?
+Which RED choose as a starter? What will be RED's Team in the Indigo League?
 
 Find out now!
 
 FEATURES TO BE ADDED IN THE FUTURE:
-- Red's Battle Theme.
+- RED's Battle Theme.
 
 There is a known issues:
-- When selecting a Pokémon, Professor Oak's speech doesn’t match due to different starters.
+- When selecting a Pokémon, Professor Oak's speech doesn’t match with the starters.
 
 Not compatible with (other hacks):
 - Pokeblue Spaceworld Backsprites 
@@ -31,6 +31,7 @@ Credits:
 - alt - Pokémon Playable Blue
 - Eurynomos - Pokemon: Blue Version (EMU Edition)
 - dewhi100 - Gen 6 Typing
+- 80C - Pokémon Fast Red
 
 Tools used:
 - GymEdit GB - Swampert Tools
