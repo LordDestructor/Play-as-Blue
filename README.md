@@ -28,8 +28,8 @@ Not compatible with (other hacks):
 Feel free to contribute it.
 
 Credits:
-- Eurynomos - Pokemon: Blue Version (EMU Edition)
 - alt - Pokémon Playable Blue
+- Eurynomos - Pokemon: Blue Version (EMU Edition)
 - dewhi100 - Gen 6 Typing
 
 Tools used:
