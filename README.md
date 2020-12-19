@@ -7,7 +7,7 @@ You will become like him instead of using RED's Character.
 
 OPTIMIZED FOR EMULATORS: You can get all 151 kinds of Pokémon without trading.
 
-Starters in Blue are: Charmander, Squirtle and Eevee.
+Gen 6 Typing included in the game
 
 Which RED choose as a starter? What will be RED's Team in the Indigo League?
 
