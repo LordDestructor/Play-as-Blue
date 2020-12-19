@@ -1,4 +1,4 @@
-# Play as Blue! - WIP
+# Play as Blue!
 <img alt="Card" src="https://l01d.files.wordpress.com/2020/12/play-as-blue.png" width="100%">
 Seems like Pokémon Blue Version is missing something? Well, this patch makes you feel more like BLUE, the most powerful trainer in the world.
 
