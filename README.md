@@ -1,5 +1,6 @@
 # Play as Blue! - WIP
 Seems like Pokémon Blue Version is missing something? Well, this patch makes you feel more like BLUE, the most powerful trainer in the world.
+
 You will become like him instead of using RED's Character.
 Which RED choose as a starter? What will be RED's Team in the Indigo League?
 
