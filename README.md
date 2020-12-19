@@ -28,7 +28,7 @@ Find out now!
 
 ### Credits:
 - alt - Pokémon Playable Blue
-- Eurynomos - Pokemon: Blue Version (EMU Edition)
+- Eurynomos - Pokémon: Blue Version (EMU Edition)
 - dewhi100 - Gen 6 Typing
 - 80C - Pokémon Fast Red
 
