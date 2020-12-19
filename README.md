@@ -8,7 +8,7 @@ Find out now!
 
 ## FEATURES:
 - BLUE's Character.
-- You can get all 151 kinds of Pokémon without trading.
+- You can get all 151 kinds of Pokémon in one save file.
 - Gen 6 Typing included in the game.
 - Running Shoes (Press B)
 
