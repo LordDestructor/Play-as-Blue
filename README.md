@@ -10,9 +10,10 @@ Find out now!
 
 ## FEATURES:
 - BLUE's Character.
-- You can get all 151 kinds of Pokémon in one save file.
+- All 151 kinds of Pokémon in one save file.
 - Gen 6 Typing included in the game.
-- Running Shoes (Press B)
+- Running Shoes.
+- Choose Normal or Hard.
 
 ## FEATURES TO BE ADDED IN THE FUTURE:
 - RED's Battle Theme.
