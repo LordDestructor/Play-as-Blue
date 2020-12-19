@@ -27,7 +27,7 @@ Find out now!
 - Pokémon Blue Star
 - Pokémon Polished Blue
 
-Feel free to contribute it.
+## Feel free to contribute it.
 
 ### Credits:
 - alt - Pokémon Playable Blue
