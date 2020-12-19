@@ -9,7 +9,8 @@ Which RED choose as a starter? What will be RED's Team in the Indigo League?
 
 Find out now!
 
-## OPTIMIZED FOR EMULATORS:
+## FEATURES:
+- BLUE's Character
 - You can get all 151 kinds of Pokémon without trading.
 - Gen 6 Typing included in the game.
 - Running Shoes (Press B)
