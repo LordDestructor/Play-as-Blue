@@ -1,4 +1,5 @@
 # Play as Blue! - WIP
+https://i.imgur.com/B2RYEwK.png
 Seems like Pokémon Blue Version is missing something? Well, this patch makes you feel more like BLUE, the most powerful trainer in the world.
 
 You will become like him instead of using RED's Character.
