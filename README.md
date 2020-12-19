@@ -36,4 +36,3 @@ Credits:
 Tools used:
 - GymEdit GB - Swampert Tools
 - Challenge! Starter and Rival Editor - Swampert Tools
-- PokéText - ???
