@@ -33,6 +33,6 @@ Find out now!
 - 80C - Pokémon Fast Red
 
 ### Tools used:
-- GymEdit GB - Swampert Tools
-- Challenge! Starter and Rival Editor - Swampert Tools
-- PokemonEvolutionEditorGen1 - tscarff1
+- Swampert Tools - GymEdit GB
+- Swampert Tools - Challenge! Starter and Rival Editor
+- tscarff1 - PokemonEvolutionEditorGen1
