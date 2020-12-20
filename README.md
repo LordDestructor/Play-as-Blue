@@ -17,6 +17,8 @@ Find out now!
 
 ## FEATURES TO BE ADDED IN THE FUTURE:
 - RED's Battle Theme.
+- Change RED's Team based on this story.
+- Change Trainers Team based on evolution. 
 
 ### There is a known issues:
 - When selecting a Pokémon, Professor Oak's speech doesn’t match with the starters.
