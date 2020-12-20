@@ -41,4 +41,5 @@ Find out now!
 - Swampert Tools - GymEdit GB
 - Swampert Tools - Challenge! Starter and Rival Editor
 - Swampert Tools - RB Trainer Editor*
+- Swampert Tool - TitlePokéEdit RB*
 - tscarff1 - PokemonEvolutionEditorGen1
