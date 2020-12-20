@@ -40,4 +40,5 @@ Find out now!
 ### Tools used:
 - Swampert Tools - GymEdit GB
 - Swampert Tools - Challenge! Starter and Rival Editor
+- Swampert Tools - RB Trainer Editor*
 - tscarff1 - PokemonEvolutionEditorGen1
